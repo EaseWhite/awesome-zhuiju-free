@@ -308,22 +308,22 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 | 资源 | 简介 | star数 | 仓库更新时间 |
 | --- | --- | :---: | :---: |
-| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 144,124 | 2026-11-16 |
-| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 42,669 | 2026-11-12 |
-| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 26,148 | 2026-10-14 |
-| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 21,778 | 2026-11-15 |
-| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 15,247 | 2026-10-12 |
-| [FongMi TV](<https://github.com/FongMi/TV>) | 基于 CatVod 的开源 Android 影音应用 | 10,554 | 2026-11-13 |
-| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,458 | 2026-10-15 |
-| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 9,145 | 2026-06-25 |
-| [Bangumi](<https://github.com/czy0729/Bangumi>) | 专门做 ACG 的类豆瓣追番客户端 | 6,247 | 2026-11-14 |
-| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 3,734 | 2026-10-28 |
+| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 144,136 | 2026-11-16 |
+| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 42,703 | 2026-11-16 |
+| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 26,157 | 2026-10-14 |
+| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 21,786 | 2026-11-16 |
+| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 15,252 | 2026-10-12 |
+| [FongMi TV](<https://github.com/FongMi/TV>) | 基于 CatVod 的开源 Android 影音应用 | 10,559 | 2026-11-13 |
+| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,460 | 2026-10-15 |
+| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 9,147 | 2026-06-25 |
+| [Bangumi](<https://github.com/czy0729/Bangumi>) | 专门做 ACG 的类豆瓣追番客户端 | 6,248 | 2026-11-14 |
+| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 3,735 | 2026-10-28 |
 | [quark-auto-save](<https://github.com/Cp0204/quark-auto-save>) | 夸克网盘自动签到转存整理工具 | 3,109 | 2026-07-09 |
-| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,647 | 2026-05-25 |
+| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,646 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,904 | 2026-11-11 |
-| [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 819 | 2026-11-15 |
-| [nTv 直播软件](<https://github.com/buhanzhe/NativeWasmTv>) | 横屏直播播放器 | 475 | 2026-11-13 |
-| [修狗TV](<https://github.com/qfw66/xiugou-tv>) | 兼容 TVBox 配置的 Windows 影视播放器 | 194 | 2026-11-08 |
+| [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 821 | 2026-11-16 |
+| [nTv 直播软件](<https://github.com/buhanzhe/NativeWasmTv>) | 横屏直播播放器 | 480 | 2026-11-16 |
+| [修狗TV](<https://github.com/qfw66/xiugou-tv>) | 兼容 TVBox 配置的 Windows 影视播放器 | 200 | 2026-11-08 |
 | [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 139 | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
